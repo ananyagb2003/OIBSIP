@@ -1,11 +1,14 @@
-//Web development code to create a landing page//
+<!--Web development code to create a landing page-->
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
         <title>ourlearning</title>
         <meta charset="utf8">
     </head>
-    //CSS part//
+    
+    <!--CSS part-->
+    
     <style>
 body{
     background-image:url("https://wallpapertag.com/wallpaper/full/3/3/9/555556-wallpaper-of-study-2560x1600-samsung.jpg");
@@ -99,7 +102,9 @@ input{
 
 
     </style>
-    //main HTML part//
+    
+    <!--main HTML part-->
+    
     <body>
         <div class="header">
     <p>OURLEARNING</p>
